@@ -159,3 +159,25 @@ hr{
 .footer ul{
     padding-inline-start: 0px;
 }
+
+/* media query */
+@media (max-width: 600px) {
+    .container {
+      padding: 0 0.5rem; /* Adjust container padding for mobile */
+    }
+  
+    .hero .hero-img {
+      max-width: 250px; /* Adjust hero image size for mobile */
+    }
+  
+    .hero .hero-heading {
+      font-size: 1rem; /* Adjust hero heading font size for mobile */
+      padding: 0.5rem;
+    }
+  
+    .section {
+      padding: 1rem; /* Adjust section padding for mobile */
+    }
+  
+    
+  }
