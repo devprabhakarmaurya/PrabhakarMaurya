@@ -79,6 +79,7 @@ hr{
 
 .list-unbulleted{
     list-style: none;
+    padding-inline-start: 0px; 	
 }
 .list-item-inline{
     display: inline;
