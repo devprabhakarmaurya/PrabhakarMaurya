@@ -47,7 +47,7 @@ hr {
 
 .link-primary {
   max-width: 140px;
-  padding: 0.6rem 1.2rem;
+  padding: 0.6rem 1rem;
   background-color: var(--primary-color);
   color: #fff;
   margin: 1rem auto;
